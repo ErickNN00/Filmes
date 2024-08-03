@@ -1,14 +1,24 @@
 body {
     color: white;
-    background: #222835;
-    margin: 0px;
+    background: #2b3a5b;
+    margin: 0px
 }
 
 header {
-    color: dodgerblue;
-    border-bottom: solid 1px dodgerblue;
+    color: #10e5e5;
+    border-bottom: solid 1px #10e5e5;
     padding: 10px;
     text-align: center;
     font-size: 50px;
+    background: #10285f;
+
+}
+
+section {
+    margin: 25px;
+    border-top: solid 1px #10e5e5;
+    border-bottom: solid 1px #10e5e5;
+    padding: 10px;
+    background: #475575;
 
 }
