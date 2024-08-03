@@ -1,7 +1,14 @@
 body {
-  color: white;
-  background: black;
+    color: white;
+    background: #222835;
+    margin: 0px;
 }
+
 header {
-  color: dodgerblue;
+    color: dodgerblue;
+    border-bottom: solid 1px dodgerblue;
+    padding: 10px;
+    text-align: center;
+    font-size: 50;
+
 }
