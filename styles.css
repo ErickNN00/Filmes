@@ -1,9 +1,8 @@
 body {
     color: white;
     background: #2b3a5b;
-    margin: 0px;
+    margin: 0px
 }
-
 header {
     color: #10e5e5;
     border-bottom: solid 1px #10e5e5;
@@ -11,15 +10,15 @@ header {
     text-align: center;
     font-size: 50px;
     background: #10285f;
-    font-family: "Orbitron", sans-serif;
+  font-family: "Orbitron", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
 }
-}
 
 section {
-    margin: 10%;
+    margin: 5px;
+    margin: 25px;
     margin-top: 35px;
     border-top: solid 1px #10e5e5;
     border-bottom: solid 1px #10e5e5;
