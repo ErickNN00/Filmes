@@ -29,6 +29,7 @@ section {
     background: #475575;
     font-family: "Kode Mono", monospace;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 400;
     font-style: normal;
+    border-radius: 10px;
 }
