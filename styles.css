@@ -2,6 +2,10 @@ body {
     color: white;
     background: #2b3a5b;
     margin: 0px;
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 header {
@@ -24,9 +28,6 @@ section {
     border-bottom: solid 1px #10e5e5;
     padding: 10px;
     background: #475575;
-    font-family: "Kode Mono", monospace;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
+
     border-radius: 10px;
 }
