@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: #2b3a5b;
+    background: #384971;
     margin: 0px;
     font-family: "Kode Mono", monospace;
     font-optical-sizing: auto;
@@ -14,21 +14,20 @@ header {
     padding: 10px;
     text-align: center;
     font-size: 50px;
-    background: #10285f;
+    background: #192b55;
     font-family: "Bungee Shade", sans-serif;
     font-weight: 400;
     font-style: normal;
-
 }
 
 section {
     margin: 10%;
-    margin-top: 35px;
+    margin-top: 75px;
     border-top: solid 1px #10e5e5;
     border-bottom: solid 1px #10e5e5;
     padding: 10px;
     padding-bottom: 125px;
-    background: #475575;
+    background: #4b5b81;
     border-radius: 10px;
     display: flex;
 }
