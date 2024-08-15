@@ -20,7 +20,7 @@ header {
     font-style: normal;
 }
 
-section {
+.principal {
     margin: 10%;
     margin-top: 76px;
     border-top: solid 2px #10e5e5;
