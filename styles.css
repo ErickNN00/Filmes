@@ -30,28 +30,27 @@ header {
     padding-bottom: 55px;
     background: #4b5b81;
     border-radius: 26px;
-    
+
 }
 
-.principal-1{
+.principal-1 {
     display: flex;
     margin-left: 40px;
     margin-right: -50px;
 }
-.principal-2{
-    
-}
 
-h1{
+.principal-2 {}
+
+h1 {
     font-size: 50px;
     margin-top: 0px;
 }
 
-h2{
+h2 {
     width: 400px;
 }
 
-p{
+p {
     font-size: 25px;
     margin-top: -20px;
     margin-left: 10px;
@@ -61,11 +60,13 @@ p{
     width: 40%;
     margin-right: 35px;
 }
-.titulo-2{
+
+.titulo-2 {
     margin-left: 40px;
     margin-bottom: 40px;
 }
-.video{
+
+.video {
     margin-right: -60px;
     padding-right: 47%;
     padding-left: 56px;
@@ -73,7 +74,7 @@ p{
     margin-bottom: 100px;
 }
 
-.outros-videos{
+.outros-videos {
     display: flex;
     gap: 15px;
     overflow-x: auto;
@@ -81,19 +82,21 @@ p{
     margin-right: 40px;
 }
 
-.videos iframe{
+.videos iframe {
     opacity: 0.8;
     border-radius: 25px;
 }
 
-.videos iframe:hover{
+.videos iframe:hover {
     opacity: 1.0;
     border: solid 1px #10e5e5;
-    
+
 }
-.video iframe{
+
+.video iframe {
     border-radius: 25px;
 }
-.video iframe:hover{
+
+.video iframe:hover {
     border: solid 1px #10e5e5;
 }
