@@ -40,7 +40,7 @@ h1{
 }
 
 h2{
-    /* padding: 0px; */
+    width: 400px;
 }
 
 p{
@@ -72,14 +72,20 @@ p{
     margin-left: 40px;
 }
 
-.videos img{
-    opacity: 0.75;
+.videos iframe{
+    
+    border-radius: 25px;
+    
 }
 
-. videos img:hover{
-    opacity: 1;
+.videos iframe:hover{
+    opacity: 1.0;
+    border: solid 1px #10e5e5;
+    
 }
-
-h2{
-    width: 400px;
+.video iframe{
+    border-radius: 25px;
+}
+.video iframe:hover{
+    border: solid 1px #10e5e5;
 }
