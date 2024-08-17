@@ -70,6 +70,7 @@ p{
     gap: 15px;
     overflow-x: auto;
     margin-left: 40px;
+    margin-right: 40px;
 }
 
 .videos iframe{
