@@ -73,7 +73,7 @@ p{
 }
 
 .videos iframe{
-    
+    opacity: 0.8;
     border-radius: 25px;
     
 }
