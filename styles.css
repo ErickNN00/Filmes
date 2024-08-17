@@ -89,6 +89,7 @@ p {
     overflow-x: auto;
     margin-left: 40px;
     margin-right: 40px;
+    padding-right: 1px;
 }
 
 .videos iframe {
