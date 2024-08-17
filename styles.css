@@ -9,28 +9,39 @@ body {
 }
 
 header {
+    background: #192b55;
     color: #10e5e5;
     border-bottom: solid 1px #10e5e5;
     padding: 10px;
     text-align: center;
     font-size: 50px;
-    background: #192b55;
     font-family: "Bungee Shade", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 
 .principal {
+    background: #4b5b81; 
     margin: 10%;
     margin-top: 76px;
-    border-top: solid 2px #10e5e5;
-    border-bottom: solid 2px #10e5e5;
     padding: 10px;
     padding-top: 42px;
     padding-bottom: 55px;
-    background: #4b5b81;
     border-radius: 26px;
+    border-top: solid 2px #10e5e5;
+    border-bottom: solid 2px #10e5e5;
+}
 
+.principal:hover{
+    background: #526288;
+    color: #10e5e5;
+    margin: 9.75%;
+    margin-top: 74.25px;
+    margin-bottom: 10%;
+    padding-bottom: 58.25px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 43.25px;
 }
 
 .principal-1 {
@@ -83,16 +94,17 @@ p {
 .videos iframe {
     opacity: 0.8;
     border-radius: 25px;
+    border: solid 1px #10e5e500;
 }
 
 .videos iframe:hover {
     opacity: 1.0;
     border: solid 1px #10e5e5;
-
 }
 
 .video iframe {
     border-radius: 25px;
+    border: solid 1px #10e5e500;
 }
 
 .video iframe:hover {
